@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.Name{
+    font-family: 'Indie Flower', cursive;
+}
+.Body{
+    font-family: 'Indie Flower', cursive;
+}
+.links{
+    font-family: 'Indie Flower', cursive;
+}
+.contact{
+    font-family: 'Indie Flower', cursive;
+}
+.mobile{
+    font-family: 'Indie Flower', cursive;
+}
+.rev{
+    transform: scaleY(-1);
+}
